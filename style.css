@@ -1,0 +1,9 @@
+.fa:hover {
+  color: #fff;
+  background-color: #dfdede;
+}
+
+.fa-active {
+  color: #fff;
+  background-color: #afafaf;
+}
